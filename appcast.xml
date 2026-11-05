@@ -5,5 +5,17 @@
     <link>https://github.com/rroic/emberide-releases</link>
     <description>EmberIDE updates</description>
     <language>en</language>
+    <item>
+      <title>Version 1.0.1</title>
+      <pubDate>Thu, 05 Nov 2026 20:43:42 +0000</pubDate>
+      <sparkle:version>1.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>First update test.</p>
+<ul>
+<li>Vault tabs, Sync button, review comments, Git activity pane</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/rroic/emberide-releases/releases/download/v1.0.1/EmberIDE-1.0.1.zip" length="2676312" type="application/octet-stream" sparkle:edSignature="1BbNr1x3/9yxrsa4X0ONpR3u+uDhA9yn3vgMqj4DMbWBJwOXBFMVwrceLa6HXvyG/iSklPYabhRzutr6ofF2BQ=="/>
+    </item>
   </channel>
 </rss>
