@@ -6,6 +6,25 @@
     <description>EmberIDE updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.0</title>
+      <pubDate>Fri, 06 Nov 2026 08:33:26 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What is new in 1.1.0</h3>
+<ul>
+<li>Vault tabs: open several vaults at once; they are remembered across launches</li>
+<li>Sync button: save, receive and send in one press; sidebar badges; folder and note Commit &amp; Push, Pull and .gitignore actions</li>
+<li>Git activity pane with live progress</li>
+<li>The vault folder is the top of the file tree</li>
+<li>Review comments on notes, stored as event files so Git merges never conflict</li>
+<li>Open Knowledge Format (OKF v0.2): properties form, verification, checker, index.md and log.md tools, markdown links</li>
+<li>The Markdown tab is now a full WYSIWYG editor</li>
+<li>Built-in updates (this one)</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/rroic/emberide-releases/releases/download/v1.1.0/EmberIDE-1.1.0.zip" length="2878743" type="application/octet-stream" sparkle:edSignature="SPC1Snzik6vvqiWccMVDGrEvZRlH0PE4j6lW9MmrrJ9wK0HtwNtWl60QTSf6siJjE1KLfVGs/FYlnBtzEom5AA=="/>
+    </item>
+    <item>
       <title>Version 1.0.1</title>
       <pubDate>Thu, 05 Nov 2026 20:43:42 +0000</pubDate>
       <sparkle:version>1.0.1</sparkle:version>
