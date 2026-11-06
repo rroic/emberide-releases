@@ -6,6 +6,19 @@
     <description>EmberIDE updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.1</title>
+      <pubDate>Fri, 06 Nov 2026 11:03:09 +0000</pubDate>
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new in 1.1.1</h3>
+<ul>
+<li>**Graph view** (View ▸ Graph, ⌘3): the whole vault as an interactive, read-only graph of concepts and their links, with search, a type filter, five layouts and a detail pane. It also shows front-matter source edges.</li>
+<li>The sidebar now shows file extensions (`Customers.md`, not `Customers`).</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/rroic/emberide-releases/releases/download/v1.1.1/EmberIDE-1.1.1.zip" length="3000702" type="application/octet-stream" sparkle:edSignature="rPCGMY7hrH8OTPinSrXJc2JnJeNmRPYogowkQGK3fAjV3zU8FRMU2nYcm0+FjdXBipjhExUk+mhThGuSbtS7AQ=="/>
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <pubDate>Fri, 06 Nov 2026 08:33:26 +0000</pubDate>
       <sparkle:version>1.1.0</sparkle:version>
