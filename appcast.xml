@@ -6,6 +6,28 @@
     <description>EmberIDE updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.2</title>
+      <pubDate>Fri, 06 Nov 2026 17:01:09 +0000</pubDate>
+      <sparkle:version>1.1.2</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What&#x27;s new in 1.1.2</h3>
+<p>**A much more readable Graph**</p>
+<ul>
+<li>Big bundles open as one circle per folder (or type), with the number of concepts inside. Double-click a circle to drill into it; **Zoom out** or Esc steps back.</li>
+<li>Double-click a concept to see it with all its connections, without leaving the graph. *Open note ›* in its details opens the editor.</li>
+<li>Filter by folder, status, stale, trust tier and tag from the Filter menu; filters hide instead of dim, and a strip says what is hidden.</li>
+<li>Names are written inside the circles; hover a circle to see it enlarged with its full name.</li>
+<li>The folder&#x27;s own `index.md` is shown in the details of a folder circle.</li>
+</ul>
+<p>**OKF**</p>
+<ul>
+<li>A bundle is recognised from its notes (or `okf_version`) and behaves as OKF straight away: there is no &quot;declare&quot; step any more.</li>
+<li>The OKF actions moved from the menu bar to an **OKF** toolbar button, enabled only in an OKF bundle (shortcuts ⌥⌘P, ⌥⌘V, ⌥⌘N unchanged).</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/rroic/emberide-releases/releases/download/v1.1.2/EmberIDE-1.1.2.zip" length="3108472" type="application/octet-stream" sparkle:edSignature="v8aM06G0ZbAzprgNLTJFP72naNa7tgec1Gd9vP7YkLuyov/2Syv0Bvof3PoqESoO40S2Dl1IjwquciXI+i1WBQ=="/>
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <pubDate>Fri, 06 Nov 2026 11:03:09 +0000</pubDate>
       <sparkle:version>1.1.1</sparkle:version>
